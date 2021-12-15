@@ -1,0 +1,36 @@
+body {
+  background-color:rgba(0, 0, 0, 0.952);
+}
+#div1 {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 300px;
+  height: 450px;
+  border-radius: 5px;
+  background-color:rgb(1, 1, 48);
+}
+
+#img_equilibrium{
+    width: 260px;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 20px;
+    object-fit:fill;
+}
+#div3, h3, p{
+    margin-left:10px;
+}
+#div3, h3{
+    color:white;
+}
+#div3, p{
+    color: rgb(78, 78, 138);;
+}
+#etherium{
+    width:"11";
+    height:"18";
+    margin-left:20px;
+}
+#div1, #etherium_text{
+    color:white;
+}
